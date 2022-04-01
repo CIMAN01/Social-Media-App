@@ -6,15 +6,15 @@
 
 ### Some common tools and concepts used for this app include things like:
 * useReducer (immer package) for handling the bulk of the logic in various React components
-#### * react router (switch/routes/withRouter etc.)
-#### * client-side routing & validation (i.e. when signing up or signing in)
-#### * flash messages
-#### * using tokens (for the back-end to trust the app which is set to expire after 24hrs)
-#### * react tool tip
-#### * react markdown
-#### * suspense (or lazy loading) for performance reasons when hosting the app live
-#### * css Bootstrap for button, colors (i.e. flash messages as mentioned) 
-#### * css transistion group (animations)
+* react router (switch/routes/withRouter etc.)
+* client-side routing & validation (i.e. when signing up or signing in)
+* flash messages
+* using tokens (for the back-end to trust the app which is set to expire after 24hrs)
+* react tool tip
+* react markdown
+* suspense (or lazy loading) for performance reasons when hosting the app live
+* css Bootstrap for button, colors (i.e. flash messages as mentioned) 
+* css transistion group (animations)
 
 ### A quick preview in the form of screenshots can be seen below:
 
