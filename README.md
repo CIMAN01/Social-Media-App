@@ -5,6 +5,8 @@
 
 #### The app connects to a back-end API (written mostly in Node.js) to communicate or send data to and from a MongoDB Atlas server.
 
+- - - -
+
 #### Some common tools and concepts used for this app include things like:
 * useReducer (immer package) for handling the bulk of the logic in various React components
 * react router (switch/routes/withRouter etc.)
@@ -17,6 +19,8 @@
 * css Bootstrap for button, colors (i.e. flash messages as mentioned) 
 * css transistion group (animations)
 
+- - - -
+
 #### A quick preview in the form of screenshots can be seen below:
 
 
@@ -25,6 +29,7 @@
 
 ![sma-screen-2](https://user-images.githubusercontent.com/34729011/161319726-18986a31-a4ae-4ef1-bc13-a8159c823295.jpeg)
 
+- - - -
 
 #### The back-end api is hosted on _Heroku_ and the app itself is hosted on _Netlifly_ and can be demo-ed by visiting the link below.
 
