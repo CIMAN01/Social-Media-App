@@ -26,6 +26,6 @@
 ![sma-screen-2](https://user-images.githubusercontent.com/34729011/161319726-18986a31-a4ae-4ef1-bc13-a8159c823295.jpeg)
 
 
-### The back-end api is hosted on heroku and the app itself is hosted on netlifly and can be demo-ed by visiting the link below.
+### The back-end api is hosted on _Heroku_ and the app itself is hosted on _Netlifly_ and can be demo-ed by visiting the link below.
 
 ### [Link to demo Social Media App](https://rad-kataifi-181b9e.netlify.app/)
