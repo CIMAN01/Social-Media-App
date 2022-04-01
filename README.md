@@ -1,10 +1,10 @@
 # Social Media App
 
-### A simple social media web app built in React for the front-end that lets a user create an account, create/edit/delete posts, and follow other users as well as be able to chat with them.
+#### A simple social media web app built in React for the front-end that lets a user create an account, create/edit/delete posts, and follow other users as well as be able to chat with them.
 
-### The app connects to a back-end API (written mostly in Node.js) to communicate or send data to and from a MongoDB Atlas server.
+#### The app connects to a back-end API (written mostly in Node.js) to communicate or send data to and from a MongoDB Atlas server.
 
-### Some common tools and concepts used for this app include things like:
+#### Some common tools and concepts used for this app include things like:
 * useReducer (immer package) for handling the bulk of the logic in various React components
 * react router (switch/routes/withRouter etc.)
 * client-side routing & validation (i.e. when signing up or signing in)
