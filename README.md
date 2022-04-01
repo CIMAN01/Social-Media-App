@@ -1,4 +1,5 @@
-# Social Media App
+# **Social Media App**
+- - - -
 
 #### A simple social media web app built in React for the front-end that lets a user create an account, create/edit/delete posts, and follow other users as well as be able to chat with them.
 
