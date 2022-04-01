@@ -1,7 +1,6 @@
 # Social Media App
 
-### A simple social media web app built in React for the front-end that lets a user create an account, create/edit/delete posts, and follow other users
-### as well as be able to chat with them.
+### A simple social media web app built in React for the front-end that lets a user create an account, create/edit/delete posts, and follow other usersas well as be able to chat with them.
 
 ### The app connects to a back-end API (written in mostly in Node.js) to communicate or send data to and from a MongoDB Atlas server.
 
