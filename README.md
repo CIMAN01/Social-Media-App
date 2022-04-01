@@ -28,6 +28,6 @@
 
 ### The back-end api is hosted on _Heroku_ and the app itself is hosted on _Netlifly_ and can be demo-ed by visiting the link below.
 
-### [Link to demo Social Media App](https://rad-kataifi-181b9e.netlify.app/)
+### [Link to demo Social Media App](https://rad-kataifi-181b9e.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/67cefca6-b658-4289-be5a-0c77391dca61/deploy-status)](https://app.netlify.com/sites/rad-kataifi-181b9e/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/67cefca6-b658-4289-be5a-0c77391dca61/deploy-status)](https://app.netlify.com/sites/rad-kataifi-181b9e/deploys)
+
