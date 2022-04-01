@@ -1,22 +1,31 @@
-![Social-Media-App-Screenshot](https://user-images.githubusercontent.com/34729011/154372274-27ca8005-a6cd-4f63-9f1d-c0ea0fcdc3fe.png)
+# Social Media App
+
+## A simple social media web app built in React for the front-end that lets a user create an account, create/edit/delete posts, and follow other users
+## as well as be able to chat with them.
+
+## The app connects to a back-end API (written in mostly in Node.js) to communicate or send data to and from a MongoDB Atlas server.
+
+## Some common tools and concepts used for this app include things like:
+### - useReducer (immer package) for handling the bulk of the logic in various React components
+### - react router (switch/routes/withRouter etc.)
+### - client-side routing & validation (i.e. when signing up or signing in)
+### - flash messages
+### - using tokens (for the back-end to trust the app which is set to expire after 24hrs)
+### - react tool tip
+### - react markdown
+### - suspense (or lazy loading) for performance reasons when hosting the app live
+### - css Bootstrap for button, colors (i.e. flash messages as mentioned) 
+### - css transistion group (animations)
+
+## A quick preview in the form of screenshots can be seen below:
 
 
-A simple but complex social media app that lets you create posts, follow other users, as well as chatting with them live.
+![sma-screen-1](https://user-images.githubusercontent.com/34729011/161319667-ea39d393-9c4f-40db-8a1f-e5b4c3e06652.png)
 
 
-![Create New Post Social Media App-Screenshot](https://user-images.githubusercontent.com/34729011/154593394-c87439ef-eb8d-4fff-b5ca-49f83819f18c.png)
-
-![News Feed Social Media AppScreenshot-1](https://user-images.githubusercontent.com/34729011/154593398-cc46e259-aac2-4767-a59d-4a4679fee47f.png)
-
-![News Feed Social Media App-Screenshot-2](https://user-images.githubusercontent.com/34729011/154593400-66baf140-169f-4498-ba19-71b18a1f4352.png)
-
-![Profile Screen Social Media App-Screenshot-1](https://user-images.githubusercontent.com/34729011/154593401-94a909f5-6f13-4800-b54d-c30c09b444ca.png)
-
-![Profile Screen Social Media App-Screenshot-2](https://user-images.githubusercontent.com/34729011/154593404-b28a0af8-ef03-4d6e-a57c-1adea2723114.png)
+![sma-screen-2](https://user-images.githubusercontent.com/34729011/161319726-18986a31-a4ae-4ef1-bc13-a8159c823295.jpeg)
 
 
+## The back-end api is hosted on heroku and the app itself is hosted on netlifly and can be demod by visiting the link below.
 
-This is just a preview of the app and may not necessarily represent its final form.
-
-
-# Project currently under construction...please check back soon!
+[Link to demo Social Media App](https://rad-kataifi-181b9e.netlify.app/)
